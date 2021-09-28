@@ -16,6 +16,7 @@ public class Tile {
     public boolean equals(Tile that){
         return value==that.value&&letter==that.letter;
     }
+    //ved ikke hvad dette gør
     public int getValue(){
         return value;
     }
