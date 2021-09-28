@@ -1,6 +1,8 @@
 package com.company.chapter8;
 
-public class Exercise4 { // igang med eller ikke færig
+public class Exercise4 {
+    // igang med eller ikke færig
+
     /*
      * Exercise 5.6
      *
@@ -21,7 +23,7 @@ public class Exercise4 { // igang med eller ikke færig
      * WARNING: the return value gets very big very quickly.  You should try
      * it only for small values of m and n (not bigger than 2).
      */
-
+/*
     public static void main(String[] args) {
         System.out.println(ack(0,2));
 
@@ -42,7 +44,7 @@ public class Exercise4 { // igang med eller ikke færig
         }
 
     }
-}
+*/}
 /*
  A(m, n) ={
     n+1	                if  m = 0
